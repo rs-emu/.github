@@ -1,12 +1,14 @@
-## Hi there 👋
+<p align="center" style="background: linear-gradient(to bottom, #2c3e50, #4ca1af); padding: 20px; border-radius: 10px;">
+  <img width="470" height="230" src="https://raw.githubusercontent.com/rs-emu/.github/refs/heads/main/profile/images/rsemubanner-svg.svg" alt="rsEmu Banner">
+</p>
 
-<!--
+<h2 align="center"><strong>rsEmu</strong></h2>
+<p align="center">
+  <i>rsEmu is a new upcoming remake of the well-known Qt-based front-end for the QEMU emulator, QtEmu</i>
+</p>
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+our mission is to create a more user-friendly and modern experience for command-line-based emulators like QEMU, focusing on bringing a fresh, updated approach to QtEmu.
+
+for now, stay tuned as we complete the work happening ***behind the scenes***.
