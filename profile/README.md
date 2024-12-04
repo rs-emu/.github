@@ -1,4 +1,4 @@
-<p align="center" style="background: linear-gradient(to bottom, #000000, #000000); padding: 20px; border-radius: 10px;">
+<p align="center" style="padding: 20px; border-radius: 10px;">
   <img width="470" height="230" src="https://raw.githubusercontent.com/rs-emu/.github/refs/heads/main/profile/images/rsemubanner-svg.svg" alt="rsEmu Banner">
 </p>
 
