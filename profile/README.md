@@ -1,5 +1,5 @@
 <p align="center" style="padding: 20px; border-radius: 10px;">
-  <img width="470" height="230" src="https://raw.githubusercontent.com/rs-emu/.github/refs/heads/main/profile/images/rsemubanner-svg-svg.svg" alt="rsEmu Banner">
+  <img width="470" height="230" src="https://raw.githubusercontent.com/rs-emu/.github/refs/heads/main/profile/images/rsemubanner-svg-svg%20(2).svg" alt="rsEmu Banner">
 </p>
 
 <h2 align="center"><strong>rsEmu</strong></h2>
